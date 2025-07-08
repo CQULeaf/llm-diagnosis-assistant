@@ -1,0 +1,176 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="&#20013;&#23618;&#24178;&#37096;" />
+    <node id="&#23459;&#22478;&#24066;&#20154;&#27665;&#21307;&#38498;" />
+    <node id="BRANCH COMMITTEE SECRETARY" />
+    <node id="HOSPITAL" />
+    <node id="MIDDLE-LEVEL OFFICIALS" />
+    <node id="ACCOUNTABILITY_PROCESS" />
+    <node id="CENTRAL EIGHT PROVISIONS" />
+    <node id="ACCOUNTABILITY SUBJECT" />
+    <node id="IMPLEMENTATION MEASURES" />
+    <node id="DISCIPLINARY PROCEDURES" />
+    <node id="JIEMING TALK" />
+    <node id="ECONOMIC PENALTIES" />
+    <node id="HOSPITAL ADMINISTRATION" />
+    <node id="EMPLOYEE" />
+    <node id="HOSPITAL DISCIPLINARY COMMITTEE" />
+    <node id="HOSPITAL PARTY COMMITTEE" />
+    <node id="ORGANIZATION AND PERSONNEL DEPARTMENT" />
+    <node id="DISCIPLINARY INSPECTION AND SUPERVISION DEPARTMENT" />
+    <node id="ACCOUNTABILITY MECHANISM" />
+    <node id="ORGANIZATION (PERSONNEL) DEPARTMENT" />
+    <node id="ACCOUNTABILITY PROCEDURE" />
+    <node id="ACCOUNTABILITY OFFENDED OFFICIAL" />
+    <node id="ACCOUNTABILITY RECOMMENDATION DEPARTMENT" />
+    <node id="ACCOUNTED-OFF OFFICIALS" />
+    <node id="STAFF" />
+    <node id="SURVEY" />
+    <node id="PATIENTS" />
+    <node id="PARTY COMMITTEE" />
+    <node id="PARTY COMMITTEE STUDY SYSTEM" />
+    <node id="PARTY SECRETARY" />
+    <node id="&#21307;&#38498;&#39046;&#23548;&#29677;&#23376;" />
+    <node id="&#20826;&#22996;&#20013;&#24515;&#32452;" />
+    <node id="&#20013;&#22830;" />
+    <node id="&#20070;&#35760;" />
+    <node id="CENTER GROUP STUDY" />
+    <node id="OUT-OF-TOWN LEARNING" />
+    <node id="&#21307;&#38498;" />
+    <node id="&#20826;&#21150;" />
+    <node id="&#21307;&#30103;&#21355;&#29983;&#34892;&#39118;&#24314;&#35774;&#8220;&#20061;&#19981;&#20934;&#8221;" />
+    <edge source="&#20013;&#23618;&#24178;&#37096;" target="&#23459;&#22478;&#24066;&#20154;&#27665;&#21307;&#38498;">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="BRANCH COMMITTEE SECRETARY" target="HOSPITAL">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="MIDDLE-LEVEL OFFICIALS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="ACCOUNTABILITY_PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="CENTRAL EIGHT PROVISIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="HOSPITAL PARTY COMMITTEE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="HOSPITAL">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="SURVEY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="PARTY COMMITTEE STUDY SYSTEM">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="CENTER GROUP STUDY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HOSPITAL" target="OUT-OF-TOWN LEARNING">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="MIDDLE-LEVEL OFFICIALS" target="ACCOUNTABILITY_PROCESS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MIDDLE-LEVEL OFFICIALS" target="ORGANIZATION AND PERSONNEL DEPARTMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MIDDLE-LEVEL OFFICIALS" target="ACCOUNTABILITY MECHANISM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MIDDLE-LEVEL OFFICIALS" target="DISCIPLINARY INSPECTION AND SUPERVISION DEPARTMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNTABILITY SUBJECT" target="IMPLEMENTATION MEASURES">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="IMPLEMENTATION MEASURES" target="DISCIPLINARY PROCEDURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DISCIPLINARY PROCEDURES" target="JIEMING TALK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="DISCIPLINARY PROCEDURES" target="ECONOMIC PENALTIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HOSPITAL ADMINISTRATION" target="EMPLOYEE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="EMPLOYEE" target="HOSPITAL DISCIPLINARY COMMITTEE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="EMPLOYEE" target="HOSPITAL PARTY COMMITTEE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HOSPITAL PARTY COMMITTEE" target="ORGANIZATION (PERSONNEL) DEPARTMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HOSPITAL PARTY COMMITTEE" target="DISCIPLINARY INSPECTION AND SUPERVISION DEPARTMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HOSPITAL PARTY COMMITTEE" target="ACCOUNTABILITY PROCEDURE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HOSPITAL PARTY COMMITTEE" target="ACCOUNTABILITY RECOMMENDATION DEPARTMENT">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="ORGANIZATION AND PERSONNEL DEPARTMENT" target="DISCIPLINARY INSPECTION AND SUPERVISION DEPARTMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ORGANIZATION AND PERSONNEL DEPARTMENT" target="ACCOUNTABILITY MECHANISM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DISCIPLINARY INSPECTION AND SUPERVISION DEPARTMENT" target="ACCOUNTABILITY MECHANISM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DISCIPLINARY INSPECTION AND SUPERVISION DEPARTMENT" target="ORGANIZATION (PERSONNEL) DEPARTMENT">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="DISCIPLINARY INSPECTION AND SUPERVISION DEPARTMENT" target="ACCOUNTABILITY PROCEDURE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ORGANIZATION (PERSONNEL) DEPARTMENT" target="ACCOUNTABILITY PROCEDURE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ORGANIZATION (PERSONNEL) DEPARTMENT" target="ACCOUNTABILITY OFFENDED OFFICIAL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ORGANIZATION (PERSONNEL) DEPARTMENT" target="ACCOUNTED-OFF OFFICIALS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ACCOUNTABILITY RECOMMENDATION DEPARTMENT" target="ACCOUNTED-OFF OFFICIALS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STAFF" target="SURVEY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SURVEY" target="PATIENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PARTY COMMITTEE" target="PARTY COMMITTEE STUDY SYSTEM">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="PARTY COMMITTEE" target="PARTY SECRETARY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="&#21307;&#38498;&#39046;&#23548;&#29677;&#23376;" target="&#20826;&#22996;&#20013;&#24515;&#32452;">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="&#20826;&#22996;&#20013;&#24515;&#32452;" target="&#20013;&#22830;">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="&#20826;&#22996;&#20013;&#24515;&#32452;" target="&#20070;&#35760;">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="&#21307;&#38498;" target="&#20826;&#21150;">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="&#20826;&#21150;" target="&#21307;&#30103;&#21355;&#29983;&#34892;&#39118;&#24314;&#35774;&#8220;&#20061;&#19981;&#20934;&#8221;">
+      <data key="d0">3.0</data>
+    </edge>
+  </graph>
+</graphml>
