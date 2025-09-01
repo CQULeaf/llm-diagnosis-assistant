@@ -27,3 +27,7 @@
 ### 最后声明
 
 该项目为学校实习任务，团队共五人用时半月左右完成，故可用性与专业度仍有很大提升空间，可作为学生初步接触学习大模型微调与应用参考使用。
+
+### 相关链接
+
+[模型应用WebUI部分](https://github.com/CQULeaf/llm-diagnosis-assistant-webui)
