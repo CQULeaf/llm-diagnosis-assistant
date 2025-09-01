@@ -10,7 +10,7 @@ from pathlib import Path
 import graphrag.api as api
 from graphrag.config.load_config import load_config
 import pandas as pd
-from config import PROJECT_DIRECTORY, COMMUNITY_LEVEL, CLAIM_EXTRACTION_ENABLED, RESPONSE_TYPE
+from config import PROJECT_DIRECTORY, CLAIM_EXTRACTION_ENABLED
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):

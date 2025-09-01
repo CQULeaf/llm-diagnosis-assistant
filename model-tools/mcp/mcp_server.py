@@ -1,9 +1,8 @@
-# uvicorn mcp_server:app --host 0.0.0.0 --port 6666
-
 from fastapi import FastAPI
 from pydantic import BaseModel
 from dotenv import load_dotenv
 from serpapi import GoogleSearch
+import uvicorn
 
 load_dotenv()
 app = FastAPI()
@@ -42,3 +41,6 @@ async def mcp_chat(req: ChatRequest):
         print("=====messages=====")
         print(messages)
         return messages
+    
+if __name__ == "__main__":    
+    uvicorn.run(app, host="0.0.0.0", port=6666)
